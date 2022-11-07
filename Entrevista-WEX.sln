@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entrevista-WEX", "Entrevista-WEX\Entrevista-WEX.csproj", "{099531CD-A2C5-40E2-A81D-EF239EA3F5CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wex-One", "Wex-One\Wex-One.csproj", "{22A91287-A0B7-4ACB-BDA2-F7C58DAC4E34}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wex-Two", "Wex-Two\Wex-Two.csproj", "{0E3D7694-CFD7-4A04-930F-45D3237CB44C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{099531CD-A2C5-40E2-A81D-EF239EA3F5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099531CD-A2C5-40E2-A81D-EF239EA3F5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099531CD-A2C5-40E2-A81D-EF239EA3F5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099531CD-A2C5-40E2-A81D-EF239EA3F5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A91287-A0B7-4ACB-BDA2-F7C58DAC4E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A91287-A0B7-4ACB-BDA2-F7C58DAC4E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A91287-A0B7-4ACB-BDA2-F7C58DAC4E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A91287-A0B7-4ACB-BDA2-F7C58DAC4E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E3D7694-CFD7-4A04-930F-45D3237CB44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3D7694-CFD7-4A04-930F-45D3237CB44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3D7694-CFD7-4A04-930F-45D3237CB44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3D7694-CFD7-4A04-930F-45D3237CB44C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9465C3B-732D-4C16-9418-88F9CAA26A17}
+	EndGlobalSection
+EndGlobal
